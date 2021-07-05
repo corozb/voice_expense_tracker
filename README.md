@@ -12,7 +12,7 @@ Technology used:
 - Chartjs and react-chartjs
 - Save in localStorage
 
-[Demo]
+[Demo](https://tracker-voice.netlify.app/)
 
 ### Desktop
 
